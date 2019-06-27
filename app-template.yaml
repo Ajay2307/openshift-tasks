@@ -169,4 +169,4 @@ parameters:
   value: https://github.com/Ajay2307/openshift-tasks
 - description: Git branch/tag reference
   name: SOURCE_REF
-  value: master
+  value: eap-7
